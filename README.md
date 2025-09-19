@@ -1,3 +1,10 @@
+# Arabic Artificial Intelligence
+
+<a href="https://www.buymeacoffee.com/ArabicAI" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+# Based on the Video
+https://www.youtube.com/watch?v=2cVFd-i8efY
+
 # MobileLLM Chat Interface
 
 A beautiful web-based chat interface for Facebook's MobileLLM-R1-950M model. This application allows you to chat with the model in different modes: Math Assistant, C++ Assistant, and Python Assistant.
